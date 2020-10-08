@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Carne frita",
+      "precio": 10,
+      "id": 1
+    },
+    {
+      "nombre": "Pollo mejicano",
+      "precio": "10",
+      "id": 2
+    },
+    {
+      "nombre": "Sopa de res",
+      "precio": 5,
+      "id": 3
+    },
+    {
+      "nombre": "Ensalada carnera",
+      "precio": 7,
+      "id": 4
+    }
+  ]
+}
